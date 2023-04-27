@@ -1,6 +1,4 @@
-Sure, here's the README file formatted according to Markdown syntax:
-
-# How to Use ChampSim Software
+# How to run the code
 
 1. Download the ChampSim software from [GitHub](https://github.com/ChampSim/ChampSim).
 2. Place the `project_k.l1d_pref` and `project_k.l2c_pref` files in `champsim/Champsim/prefetcher`.
